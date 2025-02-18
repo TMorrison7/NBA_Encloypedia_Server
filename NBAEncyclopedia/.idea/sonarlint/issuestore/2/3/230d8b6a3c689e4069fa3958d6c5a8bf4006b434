@@ -1,4 +1,14 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åïğÅúÿÿÿÿ8é‚ˆĞ2J$b43da296-0a7b-44f7-b987-2a3b4786c60f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åïğÅúÿÿÿÿ8é‚ˆĞ2J$a913cbba-59af-46e3-bd4f-03368cbf0fe2
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÖÂ³Ñ2J$389d0133-f3e5-4f49-8bee-31edcabac794
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÖÂ³Ñ2J$6b5cdc39-0096-4bd6-a279-13900c54ccf0
+i
+java:S1452*"&Remove usage of generic wildcard type.(ææó˜8Ò¿ÇÕÑ2J$a33c145f-035f-4977-a9a2-32b0cd063310
+¦
+java:S1128"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ğş–şÿÿÿÿ8ôå›ÖÑ2J$5b837548-04bd-4de0-a14d-94deafe730f5
+´
+java:S1128"lRemove this unused import 'org.springframework.security.authentication.UsernamePasswordAuthenticationToken'.(ÖÆ„Ùüÿÿÿÿ8ôå›ÖÑ2J$735a11d0-53ca-477a-a7e6-b7693c93c3f0
+
+java:S1128"MRemove this unused import 'org.springframework.security.core.Authentication'.(ñıÓ“8ôå›ÖÑ2J$b06f510a-d557-4cbd-b51b-de70799e0176
+Ÿ
+java:S1128"\Remove this unused import 'org.springframework.security.core.context.SecurityContextHolder'.(ŒÄæë8ôå›ÖÑ2J$923689f7-2eff-4b8d-a9b4-e7b364026d2d
